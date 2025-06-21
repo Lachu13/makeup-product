@@ -1,2 +1,2 @@
-# makeup-product
-Makeup Product Website — HTML &amp; CSS
+# Registration Form
+Student registration form - HTML&CSS
